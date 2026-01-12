@@ -9,8 +9,7 @@
 
 ---
 
-## Bug ID: 002 | Checkout Allowed with Empty Cart
-...
+## Bug ID: 002 (Ref: #2) | Checkout Allowed with Empty Cart...
 
 ---
 
